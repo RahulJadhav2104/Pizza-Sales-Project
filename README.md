@@ -1,5 +1,6 @@
 # Pizza-Sales-Project
 Pizza Sales analysis using Microsoft SQL Server and Excel.
+
 Dashboard created in Excel.
 
 Project Objective:- The Pizza company wants us to help them create a dashboard to analyse and track their sales across area.
